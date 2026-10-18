@@ -1,0 +1,11 @@
+{
+  "org": "deepmind",
+  "repo": "optax",
+  "versions": [
+    {
+      "commit": "8589d974e565fbf1bfa1cdf8d94f5ecdf8ebe93c",
+      "tag": "",
+      "parsed_at": "2026-10-18T01:00:43.116150+00:00"
+    }
+  ]
+}
